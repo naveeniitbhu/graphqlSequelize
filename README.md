@@ -5,5 +5,4 @@
 
 - npm i --save-dev @babel/core @babel/cli @babel/preset-env @babel/node
 //write babel configs in  babelrc file
-
-
+// Creating basic server.js with routing
