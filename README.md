@@ -10,3 +10,9 @@
 - npm i nodemon
 //updating script so that nodemon uses babel to start server
 
+//Install sequelize and set it up
+- npm i sequelize
+- npm i pg pg-hstore   //serializing and deserializing JSON data to hstore format
+
+//Create connection and model i.e. table for db(user table in this case)
+//Sequelize v6 is used here
